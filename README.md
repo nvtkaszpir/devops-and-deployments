@@ -67,9 +67,9 @@ Feel free to add suggestions. This should be later split into separate docs.
   Also `D&D`  would confuse quite a lot of people, not to mention about legal infringements.
 
 - read about RPG games because ihavenoideawhatamidoing.jpeg
-- dnd map - atually should be a problem to solve, like an area from star to
+- world map - actually should be a problem to solve, like an area from start to
   end with traps in modern app development (yeah, agile and stuff...)
-- expore phase - discovering the problem area, dependencies among issues
+- explore phase - discovering the problem area, dependencies among issues, tech stack
 - interactions - ?
 - combat - actually it is just smaller problem solving
 - monsters - problems itself (we don't have problems, we have challenges...)
@@ -93,3 +93,6 @@ Feel free to add suggestions. This should be later split into separate docs.
 
 [dungeon_brawl](https://github.com/jness/dungeon_brawl)
 This is is insanely awesome, I think it could be used in here!
+
+[Storytelling system](https://en.wikipedia.org/wiki/Storytelling_System)
+[dnd tl;dr](https://github.com/Miserlou/dnd-tldr)
