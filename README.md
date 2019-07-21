@@ -2,7 +2,7 @@
 
 ## About
 
-This is a game for Devops about Deployments ;)
+This is a (yet-to-be-defined) game for Devops about Deployments ;)
 
 The general idea is to create game similar to Dungeons & Dragons but
 in completely different setup, focusing on current IT Operations challenges.
