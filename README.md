@@ -35,8 +35,10 @@ Feel free to add suggestions. This should be later split into separate docs.
   - do you have cloud providers
   - automation tools (if any)
 
-[Characters](Characters.md)
-[Campaigns](Campaigns.md)
+## Sub documents
+
+- [Characters](Characters.md)
+- [Campaigns](Campaigns.md)
 
 ## TODO
 
