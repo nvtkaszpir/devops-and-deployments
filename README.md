@@ -35,8 +35,8 @@ Feel free to add suggestions. This should be later split into separate docs.
   - do you have cloud providers
   - automation tools (if any)
 
-[Character](Character.md)
-[Campaigns][Campaigns.md]
+[Characters](Characters.md)
+[Campaigns](Campaigns.md)
 
 ## TODO
 
