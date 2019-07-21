@@ -6,7 +6,7 @@
 
 This is a (yet-to-be-defined) game for Devops about Deployments ;)
 
-The general idea is to create game similar to Dungeons & Dragons but
+The general idea is to create game somewhat similar to Dungeons & Dragons but
 in completely different setup, focusing on current IT Operations challenges.
 
 ## Origin
@@ -15,6 +15,17 @@ Credits to Michał Pawluk for original name, expressed around
 2019-07-19 14:00 in our room at work.
 
 Some suggestions were expressed over IRC @ freenode.
+
+## Project goal
+
+- create usable assets to perform a game, such as:
+  - player chart
+  - campaign scenarios
+  - gameplay - how to play descriptions
+  - exploration, interaction, combat
+  - game master guidelines
+- focus on doing fast-paced and fun-focused gameplay for newbies,
+  so don't make it super serious to the letter.
 
 ## General ideas
 
