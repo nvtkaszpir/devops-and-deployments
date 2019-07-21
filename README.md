@@ -41,7 +41,6 @@ Feel free to add suggestions. This should be later split into separate docs.
 - travis for markdown
 - switch to rst?
 
-
 ### Non-technical
 
 - shorten name, maybe to `d16d`?

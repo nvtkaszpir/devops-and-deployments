@@ -1,0 +1,7 @@
+---
+# https://docs.travis-ci.com/user/languages/minimal-and-generic/
+language: minimal
+
+script:
+  # markdownlint CLI https://github.com/06kellyjac/docker_markdownlint-cli
+  - "docker run -v $PWD:/markdown 06kellyjac/markdownlint-cli ."
