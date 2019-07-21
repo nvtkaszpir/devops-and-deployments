@@ -35,7 +35,8 @@ Feel free to add suggestions. This should be later split into separate docs.
   - do you have cloud providers
   - automation tools (if any)
 
-See [Character](Character.md).
+[Character](Character.md)
+[Campaigns][Campaigns.md]
 
 ## TODO
 
@@ -61,7 +62,6 @@ See [Character](Character.md).
   - solo - for coffee break - would be much easier to actually script it
   - coop - over the Internet or with your imaginary friends
 - game master doc
-- premade campaigns
 - mission constraints, something like:
   - time limit
   - budget
