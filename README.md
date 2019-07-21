@@ -35,12 +35,13 @@ Feel free to add suggestions. This should be later split into separate docs.
   - do you have cloud providers
   - automation tools (if any)
 
+See [Character](Character.md).
+
 ## TODO
 
 ### Technical
 
 - add GitHub issues template
-- Travis for markdown
 - switch to RST?
 
 ### Non-technical
@@ -59,8 +60,8 @@ Feel free to add suggestions. This should be later split into separate docs.
 - decide if it should be a solo game or coop (also decides time limit):
   - solo - for coffee break - would be much easier to actually script it
   - coop - over the Internet or with your imaginary friends
-- character attributes
-- character skills
+- game master doc
+- premade campaigns
 - mission constraints, something like:
   - time limit
   - budget
