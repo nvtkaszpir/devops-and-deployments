@@ -35,6 +35,15 @@ Feel free to add suggestions. This should be later split into separate docs.
 
 ## TODO
 
+### Technical
+
+- add github issues template
+- travis for markdown
+- switch to rst?
+
+
+### Non-technical
+
 - shorten name, maybe to `d16d`?
   Why `d16d` ? Well, looking at how Kubernetes was abbreviated -
   squeeze 8 chars in kubernetes word and you get k8s - it was quite
