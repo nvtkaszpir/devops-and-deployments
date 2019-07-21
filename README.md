@@ -1,5 +1,7 @@
 # Devops & Deployments
 
+[![Build Status](https://travis-ci.org/nvtkaszpir/devops-and-deployments.svg?branch=master)](https://travis-ci.org/nvtkaszpir/devops-and-deployments)
+
 ## About
 
 This is a (yet-to-be-defined) game for Devops about Deployments ;)
