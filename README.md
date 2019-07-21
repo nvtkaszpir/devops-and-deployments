@@ -67,6 +67,14 @@ Feel free to add suggestions. This should be later split into separate docs.
   Also `D&D`  would confuse quite a lot of people, not to mention about legal infringements.
 
 - read about RPG games because ihavenoideawhatamidoing.jpeg
+- dnd map - atually should be a problem to solve, like an area from star to
+  end with traps in modern app development (yeah, agile and stuff...)
+- expore phase - discovering the problem area, dependencies among issues
+- interactions - ?
+- combat - actually it is just smaller problem solving
+- monsters - problems itself (we don't have problems, we have challenges...)
+- spells - should be rather just using general skills in solving problems
+- loot - if any?
 - define game system, suggestions:
   - [d20](https://en.wikipedia.org/wiki/D20_System)
   - [GURPS](https://en.wikipedia.org/wiki/GURPS)
@@ -80,3 +88,8 @@ Feel free to add suggestions. This should be later split into separate docs.
   - budget
   - what defines succesful deployment - in edge cases the fact that FTP
     upload worked is enough :D
+
+## Worth to see
+
+[dungeon_brawl](https://github.com/jness/dungeon_brawl)
+This is is insanely awesome, I think it could be used in here!
