@@ -21,17 +21,17 @@ Some suggestions were expressed over IRC @ freenode.
 Feel free to add suggestions. This should be later split into separate docs.
 
 - define your character
-- the mission is to fulfill succesful deployment in given time/money constraint
+- the mission is to fulfill successful deployment in given time/money constraint
 - game should be rouge like, so the setup is randomly generated at start,
   examples:
   - you inherit legacy system, throw a dice to define how many years ago it
     was installed and not updated
-  - you create a new app, throw a dice to define numbr of dependencies,
-    and for each dependency throw if it has breaking deps
-  - thorw a dice to define system complexity, and for each what app stack
-    was used, so for examle we got system with 6 services, 2 of them in
-    java, 2 in python, 1 in gloang, 1 in php
-  - throw a dice to decide what operationg system you use
+  - you create a new app, throw a dice to define number of dependencies,
+    and for each dependency throw if it has breaking dependencies
+  - throw a dice to define system complexity, and for each what app stack
+    was used, so for example we got system with 6 services, 2 of them in
+    Java, 2 in Python, 1 in Go, 1 in PHP
+  - throw a dice to decide what operating system you use
   - do you have cloud providers
   - automation tools (if any)
 
@@ -39,9 +39,9 @@ Feel free to add suggestions. This should be later split into separate docs.
 
 ### Technical
 
-- add github issues template
-- travis for markdown
-- switch to rst?
+- add GitHub issues template
+- Travis for markdown
+- switch to RST?
 
 ### Non-technical
 
@@ -62,7 +62,7 @@ Feel free to add suggestions. This should be later split into separate docs.
 - character attributes
 - character skills
 - mission constraints, something like:
-  - timelimit
+  - time limit
   - budget
-  - what defines succesful deployment - in edge cases the fact that ftp
+  - what defines succesful deployment - in edge cases the fact that FTP
     upload worked is enough :D
