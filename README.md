@@ -97,8 +97,7 @@ Feel free to add suggestions. This should be later split into separate docs.
 
 ## Worth to see
 
-[dungeon_brawl](https://github.com/jness/dungeon_brawl)
+- [dungeon_brawl](https://github.com/jness/dungeon_brawl)
 This is is insanely awesome, I think it could be used in here!
-
-[Storytelling system](https://en.wikipedia.org/wiki/Storytelling_System)
-[dnd tl;dr](https://github.com/Miserlou/dnd-tldr)
+- [Storytelling system](https://en.wikipedia.org/wiki/Storytelling_System)
+- [dnd tl;dr](https://github.com/Miserlou/dnd-tldr)
