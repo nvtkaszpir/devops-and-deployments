@@ -1,2 +1,5 @@
 # rendered markdown files
 *.html
+
+# SublimeText project specific files
+*.sublime-*
