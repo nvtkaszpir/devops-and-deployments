@@ -33,7 +33,6 @@ Some suggestions were expressed over IRC @ freenode.
 
 ### Technical
 
-- add GitHub issues template
 - switch to RST?
 
 ### Non-technical
