@@ -3,5 +3,7 @@
 language: minimal
 
 script:
+  # yamllint https://github.com/adrienverge/yamllint
+  - "docker run --rm -v $PWD:/yaml:ro sdesbure/yamllint yamllint ."
   # markdownlint CLI https://github.com/06kellyjac/docker_markdownlint-cli
-  - "docker run -v $PWD:/markdown 06kellyjac/markdownlint-cli ."
+  - "docker run -v $PWD:/markdown:ro 06kellyjac/markdownlint-cli ."
